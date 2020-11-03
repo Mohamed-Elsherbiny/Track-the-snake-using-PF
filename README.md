@@ -1,4 +1,4 @@
-# Track-the-snake-using-PF
+# Track-the-snake-using-Particle-Filter
 This project is part of the Sensor Fusion course labs at University Paris Saclay under the supervision of fabien.bonardi@univ-evry.fr  
 The goal of project is to implement a simple particle filter with Matlab.
 
